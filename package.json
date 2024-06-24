@@ -1,0 +1,17 @@
+{
+  "name": "digistore24-integration",
+  "version": "1.0.0",
+  "description": "Node.js app to integrate with Digistore24 for creating invoices and sending notifications",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
